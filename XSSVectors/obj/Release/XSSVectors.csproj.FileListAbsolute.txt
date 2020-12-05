@@ -1,0 +1,17 @@
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\bin\Release\XSSVectors.exe.config
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\bin\Release\XSSVectors.exe
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\bin\Release\XSSVectors.pdb
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\bin\Release\3DTools.dll
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\obj\Release\XSSVectors.csprojAssemblyReference.cache
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\obj\Release\MainWindow.g.cs
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\obj\Release\App.g.cs
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\obj\Release\XSSVectors_MarkupCompile.cache
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\obj\Release\XSSVectors_MarkupCompile.lref
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\obj\Release\MainWindow.baml
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\obj\Release\XSSVectors.g.resources
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\obj\Release\XSSVectors.Properties.Resources.resources
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\obj\Release\XSSVectors.csproj.GenerateResource.cache
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\obj\Release\XSSVectors.csproj.CoreCompileInputs.cache
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\obj\Release\XSSVectors.csproj.CopyComplete
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\obj\Release\XSSVectors.exe
+D:\Users\dbori\source\repos\XSSVectors\XSSVectors\obj\Release\XSSVectors.pdb

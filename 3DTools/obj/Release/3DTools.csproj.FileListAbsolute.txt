@@ -1,0 +1,10 @@
+D:\Users\dbori\source\repos\XSSVectors\3DTools\bin\Release\3DTools.dll
+D:\Users\dbori\source\repos\XSSVectors\3DTools\obj\Release\3DTools.csprojAssemblyReference.cache
+D:\Users\dbori\source\repos\XSSVectors\3DTools\obj\Release\Trackport3D.baml
+D:\Users\dbori\source\repos\XSSVectors\3DTools\obj\Release\Trackport3D.g.cs
+D:\Users\dbori\source\repos\XSSVectors\3DTools\obj\Release\3DTools_MarkupCompile.cache
+D:\Users\dbori\source\repos\XSSVectors\3DTools\obj\Release\3DTools.g.resources
+D:\Users\dbori\source\repos\XSSVectors\3DTools\obj\Release\_3DTools.Properties.Resources.resources
+D:\Users\dbori\source\repos\XSSVectors\3DTools\obj\Release\3DTools.csproj.GenerateResource.cache
+D:\Users\dbori\source\repos\XSSVectors\3DTools\obj\Release\3DTools.csproj.CoreCompileInputs.cache
+D:\Users\dbori\source\repos\XSSVectors\3DTools\obj\Release\3DTools.dll
